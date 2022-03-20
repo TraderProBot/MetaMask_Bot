@@ -1,0 +1,46 @@
+------Set static IP-------------------------------------[Tue 07/13/2021- 6:55:47.02]      
+--- IP/NM=62.109.1.213/255.255.255.255  GW=10.0.0.1      
+--- NS1=188.120.247.8                                                   
+
+
+The configured DNS server is incorrect or does not exist.
+
+NAMESERVERS: 188.120.247.8 188.120.247.2 185.60.132.11 82.146.59.250 
+188.120.247.8 
+ipv4 
+The object is already in the list.
+
+
+188.120.247.2 
+ipv4 
+
+The configured DNS server is incorrect or does not exist.
+
+185.60.132.11 
+ipv4 
+
+The configured DNS server is incorrect or does not exist.
+
+82.146.59.250 
+ipv4 
+
+The configured DNS server is incorrect or does not exist.
+
+--- resize disk 
+
+Microsoft DiskPart version 10.0.14393.0
+
+Copyright (C) 1999-2013 Microsoft Corporation.
+On computer: WIN-J9D866ESIJ2
+
+Volume 1 is the selected volume.
+
+Virtual Disk Service error:
+The size of the extent is less than the minimum.
+
+"KMS is not null. Activating license" 
+activate windows 
+remove task vmmgr_firstrun 
+SUCCESS: The scheduled task "vmmgr_firstrun" was successfully deleted.
+restart OS 
+------END--------------------------------------------------[Mon 07/12/2021-23:55:58.28]     
